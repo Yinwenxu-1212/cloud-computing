@@ -1,0 +1,219 @@
+{
+  "analysis_timestamp": "2025-09-21T16:18:23.535602",
+  "analysis_date": "2021-10-01",
+  "time_range": "00:00 - 23:55",
+  "granularity": "5 minutes",
+  "basic_statistics": {
+    "total_time_slots": 288,
+    "time_slots_with_free_sites": 168,
+    "time_slots_without_free_sites": 120,
+    "total_free_slots": 702,
+    "average_free_sites_per_slot": 2.4375,
+    "max_free_sites": 8,
+    "min_free_sites": 0,
+    "std_free_sites": 2.6397568017190944
+  },
+  "peak_analysis": {
+    "peak_threshold": 5.077256801719095,
+    "peak_periods_count": 43,
+    "peak_periods_percentage": 14.930555555555555
+  },
+  "hourly_statistics": {
+    "00:00": {
+      "average": 0.25,
+      "maximum": 1,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "01:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "02:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "03:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "04:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "05:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "06:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "07:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "08:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "09:00": {
+      "average": 0.0,
+      "maximum": 0,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "10:00": {
+      "average": 1.0,
+      "maximum": 2,
+      "minimum": 0,
+      "total_slots": 12
+    },
+    "11:00": {
+      "average": 1.4166666666666667,
+      "maximum": 3,
+      "minimum": 1,
+      "total_slots": 12
+    },
+    "12:00": {
+      "average": 2.75,
+      "maximum": 4,
+      "minimum": 2,
+      "total_slots": 12
+    },
+    "13:00": {
+      "average": 3.6666666666666665,
+      "maximum": 4,
+      "minimum": 3,
+      "total_slots": 12
+    },
+    "14:00": {
+      "average": 3.5,
+      "maximum": 4,
+      "minimum": 3,
+      "total_slots": 12
+    },
+    "15:00": {
+      "average": 3.75,
+      "maximum": 4,
+      "minimum": 3,
+      "total_slots": 12
+    },
+    "16:00": {
+      "average": 3.75,
+      "maximum": 5,
+      "minimum": 3,
+      "total_slots": 12
+    },
+    "17:00": {
+      "average": 2.9166666666666665,
+      "maximum": 4,
+      "minimum": 2,
+      "total_slots": 12
+    },
+    "18:00": {
+      "average": 2.8333333333333335,
+      "maximum": 4,
+      "minimum": 2,
+      "total_slots": 12
+    },
+    "19:00": {
+      "average": 4.166666666666667,
+      "maximum": 5,
+      "minimum": 3,
+      "total_slots": 12
+    },
+    "20:00": {
+      "average": 6.0,
+      "maximum": 7,
+      "minimum": 5,
+      "total_slots": 12
+    },
+    "21:00": {
+      "average": 7.833333333333333,
+      "maximum": 8,
+      "minimum": 7,
+      "total_slots": 12
+    },
+    "22:00": {
+      "average": 8.0,
+      "maximum": 8,
+      "minimum": 8,
+      "total_slots": 12
+    },
+    "23:00": {
+      "average": 6.666666666666667,
+      "maximum": 8,
+      "minimum": 5,
+      "total_slots": 12
+    }
+  },
+  "top_10_peak_periods": [
+    {
+      "time_slot": 253,
+      "actual_time": "21:05",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 254,
+      "actual_time": "21:10",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 255,
+      "actual_time": "21:15",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 256,
+      "actual_time": "21:20",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 257,
+      "actual_time": "21:25",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 258,
+      "actual_time": "21:30",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 259,
+      "actual_time": "21:35",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 260,
+      "actual_time": "21:40",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 261,
+      "actual_time": "21:45",
+      "free_sites_count": 8
+    },
+    {
+      "time_slot": 263,
+      "actual_time": "21:55",
+      "free_sites_count": 8
+    }
+  ]
+}

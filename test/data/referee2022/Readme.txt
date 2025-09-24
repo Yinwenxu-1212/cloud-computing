@@ -1,0 +1,6 @@
+solution_pre.py 为初赛结果校验代码
+solution_inter.py 为复赛结果校验代码
+solution_final.py 为决赛结果校验代码
+如果只是校验结果，修改一下数据集的路径，直接运行对应的代码即可
+
+data_preprocess.py为数据预处理代码，将数据集的名字缩短，减小输出文件大小

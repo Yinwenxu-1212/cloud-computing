@@ -1,0 +1,91 @@
+{
+  "analysis_timestamp": "2025-09-21T16:10:37.007711",
+  "basic_statistics": {
+    "total_time_slots": 8928,
+    "time_slots_with_free_sites": 7079,
+    "total_free_slots": 40592,
+    "average_free_sites_per_slot": 4.546594982078853
+  },
+  "peak_analysis": {
+    "peak_threshold": 7.449531491405077,
+    "peak_periods_count": 1314,
+    "max_free_sites": 12,
+    "max_free_sites_time_slot": 2557,
+    "max_free_sites_time_str": "213:05"
+  },
+  "site_statistics": {
+    "total_participating_sites": 94,
+    "average_free_slots_per_site": 431.82978723404256,
+    "median_free_slots_per_site": 446.0,
+    "std_free_slots_per_site": 78.04385541501546
+  },
+  "top_10_most_active_sites": [
+    {
+      "site_id": 57,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 82,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 18,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 46,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 19,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 87,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 36,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 9,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 72,
+      "free_slots_count": 446
+    },
+    {
+      "site_id": 23,
+      "free_slots_count": 446
+    }
+  ],
+  "top_5_peak_periods": [
+    {
+      "time_slot": 2557,
+      "time_str": "213:05",
+      "free_sites_count": 12
+    },
+    {
+      "time_slot": 4023,
+      "time_str": "335:15",
+      "free_sites_count": 12
+    },
+    {
+      "time_slot": 1702,
+      "time_str": "141:50",
+      "free_sites_count": 11
+    },
+    {
+      "time_slot": 1703,
+      "time_str": "141:55",
+      "free_sites_count": 11
+    },
+    {
+      "time_slot": 1704,
+      "time_str": "142:00",
+      "free_sites_count": 11
+    }
+  ]
+}
